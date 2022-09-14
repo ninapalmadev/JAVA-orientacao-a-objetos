@@ -12,5 +12,5 @@ Com o acompanhamento do curso para desenvolvimento de código em Java, foi poss�
 - Dominar o paradigma de programação mais usado no mercado de trabalho
 - Entender o que são referências e objetos
 - Usar atributos, métodos da instancia e da classe
-- Defiir objetos através de construtores
+- Definir objetos através de construtores
 - Aprender sobre encapsulamento
